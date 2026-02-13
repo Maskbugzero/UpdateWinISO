@@ -11,21 +11,21 @@
 ## 目前已构建`Windows 10`版本
 - Windows 10 22H2 amd64：
   - 母盘(2025年10月最终版)：`zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso`
-  - 集成后：`19045.6812.260122-0756.22H2_RELEASE_SVC_IM_CLIENT_X64FRE_ZH-CN.iso`  (2026年1月OOB2)
+  - 集成后：`19045.6937.260207-1153.22H2_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso`  (2026年2月)
 - Windows 10 LTSC 2021 amd64：
   - 母盘：`zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`
-  - 集成后：`19044.6812.260122-0756.21H2_RELEASE_SVC_IM_CLIENT_X64FRE_ZH-CN.iso` (2026年1月OOB2)
+  - 集成后：`19044.6937.260207-1153.21H2_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso` (2026年2月)
 - Windows 10 LTSC 2019 amd64：
   - 母盘：`cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso`
-  - 集成后：`17763.8281.260122-0747.RS5_RELEASE_SVC_IM_CLIENT_X64FRE_ZH-CN.iso` (2026年1月OOB2)
+  - 集成后：`17763.8389.260206-0946.RS5_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso` (2026年2月)
 - Windows 10 LTSB 2016 amd64：
   - 母盘：`cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso`
-  - 集成后：`14393.8783.260108-0014.RS1_RELEASE_CLIENT_X64FRE_ZH-CN.iso` (2026年1月)
+  - 集成后：`14393.8868.260206-0001.RS1_RELEASE_CLIENT_X64FRE_ZH-CN.iso` (2026年2月)
 
 ## 目前已构建`Windows 11`版本
 - Windows 11 LTSC 2024 amd64：
   - 母盘：`zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso`
-  - 集成后：`26200.7628.260121-0952.25H2_GE_RELEASE_SVC_IM_CLIENT_X64FRE_ZH-CN.iso` (2026年1月OOB2)
+  - 集成后：`26200.7840.260206-0413.25H2_GE_RELEASE_SVC_PROD1_CLIENT_X64FRE_ZH-CN.iso` (2026年2月)
 
 ## 关于`W10UI.ini`
 - 本仓库默认使用`Win_ISO_Patching_Scripts`的**预设**`W10UI.ini`
